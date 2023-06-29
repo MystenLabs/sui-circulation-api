@@ -23,5 +23,5 @@ export default function sui_circulation(
     );
 
     response.status(200)
-        .json(result[0].circulatingSupplyValue);
+        .json(result[0]);
 }
