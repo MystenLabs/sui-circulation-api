@@ -18,9 +18,9 @@ export default function sui_circulation(
 
     const result =
         values.filter(
-        val =>
-        val.month === month && val.year === year
-    );
+            val =>
+                val.month === month && val.year === year
+        );
 
     response.status(200)
         .json(result[0]);

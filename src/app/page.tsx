@@ -27,11 +27,19 @@ export default function Home() {
 
             <main className={styles.main}>
                 <main className={styles.grid}>
-                    <h2>
-                    </h2>
+                    <h3>
+                        <a href="/api/current_sui_circulation_number" className={styles.button} target="_blank">
+                            Current Month as Number
+                        </a>
+                    </h3>
                     <h3>
                         <a href="/api/current_month_sui_circulation" className={styles.button} target="_blank">
-                            Current Month [{month}/{year}]
+                            Current Month [JSON]
+                        </a>
+                    </h3>
+                    <h3>
+                        <a href="/api/total_sui_circulation_number" className={styles.button} target="_blank">
+                            Total Circulation
                         </a>
                     </h3>
                     <h3>
@@ -39,8 +47,7 @@ export default function Home() {
                             Full Data
                         </a>
                     </h3>
-                    <h2>
-                    </h2>
+
                 </main>
 
             </main>
