@@ -2,7 +2,7 @@ import { NextApiRequest, NextApiResponse } from 'next';
 
 import values from '../../circulation_data.json';
 import { DateTime } from 'luxon';
-import {TOTAL_SUI_CIRCULATION_NUMBER} from "../constants";
+import {TOTAL_SUI_CIRCULATION_NUMBER} from "../../utils/constants";
 
 export default function circulation_for_upbit(
     request: NextApiRequest,

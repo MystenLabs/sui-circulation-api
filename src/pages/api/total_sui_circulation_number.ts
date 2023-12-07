@@ -1,5 +1,5 @@
 import { NextApiRequest, NextApiResponse } from 'next';
-import {TOTAL_SUI_CIRCULATION_NUMBER} from "../constants";
+import {TOTAL_SUI_CIRCULATION_NUMBER} from "../../utils/constants";
 
 export default function total_sui_circulation_number(
     request: NextApiRequest,
