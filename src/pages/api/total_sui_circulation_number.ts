@@ -1,4 +1,5 @@
 import { NextApiRequest, NextApiResponse } from 'next';
+import {TOTAL_SUI_CIRCULATION_NUMBER} from "../../utils/constants";
 
 export default function total_sui_circulation_number(
     request: NextApiRequest,
@@ -6,5 +7,5 @@ export default function total_sui_circulation_number(
 ) {
 
     response.status(200)
-        .json(10000000000);
+        .json(TOTAL_SUI_CIRCULATION_NUMBER);
 }
