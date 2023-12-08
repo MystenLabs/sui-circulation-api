@@ -25,8 +25,8 @@ export default function Home() {
             <p>---</p>
             <h3>API Links:</h3>
 
-            <main className={styles.main}>
-                <main className={styles.grid}>
+            <div>
+                <div className={styles.grid}>
                     <h3>
                         <a href="/api/current_sui_circulation_number" className={styles.button} target="_blank">
                             Current Month as Number
@@ -43,14 +43,19 @@ export default function Home() {
                         </a>
                     </h3>
                     <h3>
+                        <a href="/api/circulation_for_upbit" className={styles.button} target="_blank">
+                            Data for Upbit
+                        </a>
+                    </h3>
+                    <h3>
                         <a href="/api/sui_circulation" className={styles.button} target="_blank">
                             Full Data
                         </a>
                     </h3>
 
-                </main>
+                </div>
 
-            </main>
+            </div>
         </main>
 
     )
