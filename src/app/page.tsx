@@ -43,11 +43,6 @@ export default function Home() {
                         </a>
                     </h3>
                     <h3>
-                        <a href="/api/circulation_for_upbit" className={styles.button} target="_blank">
-                            Data for Upbit
-                        </a>
-                    </h3>
-                    <h3>
                         <a href="/api/sui_circulation" className={styles.button} target="_blank">
                             Full Data
                         </a>
