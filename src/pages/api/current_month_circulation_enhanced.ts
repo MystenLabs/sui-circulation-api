@@ -4,7 +4,7 @@ import values from '../../circulation_data.json';
 import { DateTime } from 'luxon';
 import {TOTAL_SUI_CIRCULATION_NUMBER} from "../../utils/constants";
 
-export default function circulation_for_upbit(
+export default function current_month_circulation_enhanced(
     request: NextApiRequest,
     response: NextApiResponse,
 ) {
@@ -40,17 +40,3 @@ export default function circulation_for_upbit(
     response.status(200)
         .json(responseObject);
 }
-
-/**
- *   {
- *     "symbol": "BTC",
- *     "currencyCode": "KRW",
- *     "price": 39296339.41959793,
- *     "marketCap": 731119437172996.5,
- *     "accTradePrice24h": 64801881977219.54,
- *     "circulatingSupply": 18605431,
- *     "maxSupply": 18605431,
- *     "provider": "Your company",
- *     "lastUpdatedTimestamp": 1611133137325
- *   },
- */
