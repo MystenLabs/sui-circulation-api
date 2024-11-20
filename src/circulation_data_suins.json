@@ -2,439 +2,439 @@
   {
     "month": 11,
     "year": 2024,
-    "circulating_supply": 150000000,
-    "circulating_supply_percentage": 0.3
+    "circulatingSupplyValue": 150000000,
+    "circulatingSupplyPercentage": 0.3
   },
   {
     "month": 12,
     "year": 2024,
-    "circulating_supply": 155302085.076389,
-    "circulating_supply_percentage": 0.310604170152778
+    "circulatingSupplyValue": 155302085.076389,
+    "circulatingSupplyPercentage": 0.310604170152778
   },
   {
     "month": 1,
     "year": 2025,
-    "circulating_supply": 160604170.152778,
-    "circulating_supply_percentage": 0.321208340305556
+    "circulatingSupplyValue": 160604170.152778,
+    "circulatingSupplyPercentage": 0.321208340305556
   },
   {
     "month": 2,
     "year": 2025,
-    "circulating_supply": 165906255.229167,
-    "circulating_supply_percentage": 0.331812510458333
+    "circulatingSupplyValue": 165906255.229167,
+    "circulatingSupplyPercentage": 0.331812510458333
   },
   {
     "month": 3,
     "year": 2025,
-    "circulating_supply": 171208340.305556,
-    "circulating_supply_percentage": 0.342416680611111
+    "circulatingSupplyValue": 171208340.305556,
+    "circulatingSupplyPercentage": 0.342416680611111
   },
   {
     "month": 4,
     "year": 2025,
-    "circulating_supply": 176510425.381944,
-    "circulating_supply_percentage": 0.353020850763889
+    "circulatingSupplyValue": 176510425.381944,
+    "circulatingSupplyPercentage": 0.353020850763889
   },
   {
     "month": 5,
     "year": 2025,
-    "circulating_supply": 181812510.458333,
-    "circulating_supply_percentage": 0.363625020916667
+    "circulatingSupplyValue": 181812510.458333,
+    "circulatingSupplyPercentage": 0.363625020916667
   },
   {
     "month": 6,
     "year": 2025,
-    "circulating_supply": 187114595.534722,
-    "circulating_supply_percentage": 0.374229191069445
+    "circulatingSupplyValue": 187114595.534722,
+    "circulatingSupplyPercentage": 0.374229191069445
   },
   {
     "month": 7,
     "year": 2025,
-    "circulating_supply": 192416680.611111,
-    "circulating_supply_percentage": 0.384833361222222
+    "circulatingSupplyValue": 192416680.611111,
+    "circulatingSupplyPercentage": 0.384833361222222
   },
   {
     "month": 8,
     "year": 2025,
-    "circulating_supply": 197718765.6875,
-    "circulating_supply_percentage": 0.395437531375
+    "circulatingSupplyValue": 197718765.6875,
+    "circulatingSupplyPercentage": 0.395437531375
   },
   {
     "month": 9,
     "year": 2025,
-    "circulating_supply": 203020850.763889,
-    "circulating_supply_percentage": 0.406041701527778
+    "circulatingSupplyValue": 203020850.763889,
+    "circulatingSupplyPercentage": 0.406041701527778
   },
   {
     "month": 10,
     "year": 2025,
-    "circulating_supply": 208322935.840278,
-    "circulating_supply_percentage": 0.416645871680556
+    "circulatingSupplyValue": 208322935.840278,
+    "circulatingSupplyPercentage": 0.416645871680556
   },
   {
     "month": 11,
     "year": 2025,
-    "circulating_supply": 244347215.25,
-    "circulating_supply_percentage": 0.4886944305
+    "circulatingSupplyValue": 244347215.25,
+    "circulatingSupplyPercentage": 0.4886944305
   },
   {
     "month": 12,
     "year": 2025,
-    "circulating_supply": 252209483.1875,
-    "circulating_supply_percentage": 0.504418966375
+    "circulatingSupplyValue": 252209483.1875,
+    "circulatingSupplyPercentage": 0.504418966375
   },
   {
     "month": 1,
     "year": 2026,
-    "circulating_supply": 260071751.125,
-    "circulating_supply_percentage": 0.52014350225
+    "circulatingSupplyValue": 260071751.125,
+    "circulatingSupplyPercentage": 0.52014350225
   },
   {
     "month": 2,
     "year": 2026,
-    "circulating_supply": 267934019.0625,
-    "circulating_supply_percentage": 0.535868038125
+    "circulatingSupplyValue": 267934019.0625,
+    "circulatingSupplyPercentage": 0.535868038125
   },
   {
     "month": 3,
     "year": 2026,
-    "circulating_supply": "275796287.",
-    "circulating_supply_percentage": 0.551592574
+    "circulatingSupplyValue": "275796287.",
+    "circulatingSupplyPercentage": 0.551592574
   },
   {
     "month": 4,
     "year": 2026,
-    "circulating_supply": 283658554.9375,
-    "circulating_supply_percentage": 0.567317109875
+    "circulatingSupplyValue": 283658554.9375,
+    "circulatingSupplyPercentage": 0.567317109875
   },
   {
     "month": 5,
     "year": 2026,
-    "circulating_supply": 291520822.875,
-    "circulating_supply_percentage": 0.58304164575
+    "circulatingSupplyValue": 291520822.875,
+    "circulatingSupplyPercentage": 0.58304164575
   },
   {
     "month": 6,
     "year": 2026,
-    "circulating_supply": 299383090.8125,
-    "circulating_supply_percentage": 0.598766181625
+    "circulatingSupplyValue": 299383090.8125,
+    "circulatingSupplyPercentage": 0.598766181625
   },
   {
     "month": 7,
     "year": 2026,
-    "circulating_supply": 307245358.75,
-    "circulating_supply_percentage": 0.6144907175
+    "circulatingSupplyValue": 307245358.75,
+    "circulatingSupplyPercentage": 0.6144907175
   },
   {
     "month": 8,
     "year": 2026,
-    "circulating_supply": 315107626.6875,
-    "circulating_supply_percentage": 0.630215253375
+    "circulatingSupplyValue": 315107626.6875,
+    "circulatingSupplyPercentage": 0.630215253375
   },
   {
     "month": 9,
     "year": 2026,
-    "circulating_supply": 322969894.625,
-    "circulating_supply_percentage": 0.64593978925
+    "circulatingSupplyValue": 322969894.625,
+    "circulatingSupplyPercentage": 0.64593978925
   },
   {
     "month": 10,
     "year": 2026,
-    "circulating_supply": 330832162.5625,
-    "circulating_supply_percentage": 0.661664325125
+    "circulatingSupplyValue": 330832162.5625,
+    "circulatingSupplyPercentage": 0.661664325125
   },
   {
     "month": 11,
     "year": 2026,
-    "circulating_supply": 338694430.5,
-    "circulating_supply_percentage": 0.677388861
+    "circulatingSupplyValue": 338694430.5,
+    "circulatingSupplyPercentage": 0.677388861
   },
   {
     "month": 12,
     "year": 2026,
-    "circulating_supply": 345567115.104167,
-    "circulating_supply_percentage": 0.691134230208334
+    "circulatingSupplyValue": 345567115.104167,
+    "circulatingSupplyPercentage": 0.691134230208334
   },
   {
     "month": 1,
     "year": 2027,
-    "circulating_supply": 352439799.708333,
-    "circulating_supply_percentage": 0.704879599416667
+    "circulatingSupplyValue": 352439799.708333,
+    "circulatingSupplyPercentage": 0.704879599416667
   },
   {
     "month": 2,
     "year": 2027,
-    "circulating_supply": 359312484.3125,
-    "circulating_supply_percentage": 0.718624968625
+    "circulatingSupplyValue": 359312484.3125,
+    "circulatingSupplyPercentage": 0.718624968625
   },
   {
     "month": 3,
     "year": 2027,
-    "circulating_supply": 366185168.916667,
-    "circulating_supply_percentage": 0.732370337833334
+    "circulatingSupplyValue": 366185168.916667,
+    "circulatingSupplyPercentage": 0.732370337833334
   },
   {
     "month": 4,
     "year": 2027,
-    "circulating_supply": 373057853.520834,
-    "circulating_supply_percentage": 0.746115707041667
+    "circulatingSupplyValue": 373057853.520834,
+    "circulatingSupplyPercentage": 0.746115707041667
   },
   {
     "month": 5,
     "year": 2027,
-    "circulating_supply": 379930538.125,
-    "circulating_supply_percentage": 0.75986107625
+    "circulatingSupplyValue": 379930538.125,
+    "circulatingSupplyPercentage": 0.75986107625
   },
   {
     "month": 6,
     "year": 2027,
-    "circulating_supply": 386803222.729167,
-    "circulating_supply_percentage": 0.773606445458334
+    "circulatingSupplyValue": 386803222.729167,
+    "circulatingSupplyPercentage": 0.773606445458334
   },
   {
     "month": 7,
     "year": 2027,
-    "circulating_supply": 393675907.333334,
-    "circulating_supply_percentage": 0.787351814666667
+    "circulatingSupplyValue": 393675907.333334,
+    "circulatingSupplyPercentage": 0.787351814666667
   },
   {
     "month": 8,
     "year": 2027,
-    "circulating_supply": 400548591.9375,
-    "circulating_supply_percentage": 0.801097183875001
+    "circulatingSupplyValue": 400548591.9375,
+    "circulatingSupplyPercentage": 0.801097183875001
   },
   {
     "month": 9,
     "year": 2027,
-    "circulating_supply": 407421276.541667,
-    "circulating_supply_percentage": 0.814842553083334
+    "circulatingSupplyValue": 407421276.541667,
+    "circulatingSupplyPercentage": 0.814842553083334
   },
   {
     "month": 10,
     "year": 2027,
-    "circulating_supply": 414293961.145834,
-    "circulating_supply_percentage": 0.828587922291667
+    "circulatingSupplyValue": 414293961.145834,
+    "circulatingSupplyPercentage": 0.828587922291667
   },
   {
     "month": 11,
     "year": 2027,
-    "circulating_supply": 421166645.75,
-    "circulating_supply_percentage": 0.842333291500001
+    "circulatingSupplyValue": 421166645.75,
+    "circulatingSupplyPercentage": 0.842333291500001
   },
   {
     "month": 12,
     "year": 2027,
-    "circulating_supply": 425479147.493056,
-    "circulating_supply_percentage": 0.850958294986112
+    "circulatingSupplyValue": 425479147.493056,
+    "circulatingSupplyPercentage": 0.850958294986112
   },
   {
     "month": 1,
     "year": 2028,
-    "circulating_supply": 429791649.236111,
-    "circulating_supply_percentage": 0.859583298472223
+    "circulatingSupplyValue": 429791649.236111,
+    "circulatingSupplyPercentage": 0.859583298472223
   },
   {
     "month": 2,
     "year": 2028,
-    "circulating_supply": 434104150.979167,
-    "circulating_supply_percentage": 0.868208301958334
+    "circulatingSupplyValue": 434104150.979167,
+    "circulatingSupplyPercentage": 0.868208301958334
   },
   {
     "month": 3,
     "year": 2028,
-    "circulating_supply": 438416652.722223,
-    "circulating_supply_percentage": 0.876833305444445
+    "circulatingSupplyValue": 438416652.722223,
+    "circulatingSupplyPercentage": 0.876833305444445
   },
   {
     "month": 4,
     "year": 2028,
-    "circulating_supply": 442729154.465278,
-    "circulating_supply_percentage": 0.885458308930556
+    "circulatingSupplyValue": 442729154.465278,
+    "circulatingSupplyPercentage": 0.885458308930556
   },
   {
     "month": 5,
     "year": 2028,
-    "circulating_supply": 447041656.208334,
-    "circulating_supply_percentage": 0.894083312416668
+    "circulatingSupplyValue": 447041656.208334,
+    "circulatingSupplyPercentage": 0.894083312416668
   },
   {
     "month": 6,
     "year": 2028,
-    "circulating_supply": 451354157.951389,
-    "circulating_supply_percentage": 0.902708315902779
+    "circulatingSupplyValue": 451354157.951389,
+    "circulatingSupplyPercentage": 0.902708315902779
   },
   {
     "month": 7,
     "year": 2028,
-    "circulating_supply": 455666659.694445,
-    "circulating_supply_percentage": 0.91133331938889
+    "circulatingSupplyValue": 455666659.694445,
+    "circulatingSupplyPercentage": 0.91133331938889
   },
   {
     "month": 8,
     "year": 2028,
-    "circulating_supply": 459979161.437501,
-    "circulating_supply_percentage": 0.919958322875001
+    "circulatingSupplyValue": 459979161.437501,
+    "circulatingSupplyPercentage": 0.919958322875001
   },
   {
     "month": 9,
     "year": 2028,
-    "circulating_supply": 464291663.180556,
-    "circulating_supply_percentage": 0.928583326361112
+    "circulatingSupplyValue": 464291663.180556,
+    "circulatingSupplyPercentage": 0.928583326361112
   },
   {
     "month": 10,
     "year": 2028,
-    "circulating_supply": 468604164.923612,
-    "circulating_supply_percentage": 0.937208329847223
+    "circulatingSupplyValue": 468604164.923612,
+    "circulatingSupplyPercentage": 0.937208329847223
   },
   {
     "month": 11,
     "year": 2028,
-    "circulating_supply": 472916666.666667,
-    "circulating_supply_percentage": 0.945833333333335
+    "circulatingSupplyValue": 472916666.666667,
+    "circulatingSupplyPercentage": 0.945833333333335
   },
   {
     "month": 12,
     "year": 2028,
-    "circulating_supply": 474045138.88889,
-    "circulating_supply_percentage": 0.948090277777779
+    "circulatingSupplyValue": 474045138.88889,
+    "circulatingSupplyPercentage": 0.948090277777779
   },
   {
     "month": 1,
     "year": 2029,
-    "circulating_supply": 475173611.111112,
-    "circulating_supply_percentage": 0.950347222222224
+    "circulatingSupplyValue": 475173611.111112,
+    "circulatingSupplyPercentage": 0.950347222222224
   },
   {
     "month": 2,
     "year": 2029,
-    "circulating_supply": 476302083.333334,
-    "circulating_supply_percentage": 0.952604166666668
+    "circulatingSupplyValue": 476302083.333334,
+    "circulatingSupplyPercentage": 0.952604166666668
   },
   {
     "month": 3,
     "year": 2029,
-    "circulating_supply": 477430555.555556,
-    "circulating_supply_percentage": 0.954861111111112
+    "circulatingSupplyValue": 477430555.555556,
+    "circulatingSupplyPercentage": 0.954861111111112
   },
   {
     "month": 4,
     "year": 2029,
-    "circulating_supply": 478559027.777778,
-    "circulating_supply_percentage": 0.957118055555557
+    "circulatingSupplyValue": 478559027.777778,
+    "circulatingSupplyPercentage": 0.957118055555557
   },
   {
     "month": 5,
     "year": 2029,
-    "circulating_supply": 479687500.000001,
-    "circulating_supply_percentage": 0.959375000000001
+    "circulatingSupplyValue": 479687500.000001,
+    "circulatingSupplyPercentage": 0.959375000000001
   },
   {
     "month": 6,
     "year": 2029,
-    "circulating_supply": 480815972.222223,
-    "circulating_supply_percentage": 0.961631944444446
+    "circulatingSupplyValue": 480815972.222223,
+    "circulatingSupplyPercentage": 0.961631944444446
   },
   {
     "month": 7,
     "year": 2029,
-    "circulating_supply": 481944444.444445,
-    "circulating_supply_percentage": 0.96388888888889
+    "circulatingSupplyValue": 481944444.444445,
+    "circulatingSupplyPercentage": 0.96388888888889
   },
   {
     "month": 8,
     "year": 2029,
-    "circulating_supply": 483072916.666667,
-    "circulating_supply_percentage": 0.966145833333334
+    "circulatingSupplyValue": 483072916.666667,
+    "circulatingSupplyPercentage": 0.966145833333334
   },
   {
     "month": 9,
     "year": 2029,
-    "circulating_supply": 484201388.888889,
-    "circulating_supply_percentage": 0.968402777777779
+    "circulatingSupplyValue": 484201388.888889,
+    "circulatingSupplyPercentage": 0.968402777777779
   },
   {
     "month": 10,
     "year": 2029,
-    "circulating_supply": 485329861.111112,
-    "circulating_supply_percentage": 0.970659722222223
+    "circulatingSupplyValue": 485329861.111112,
+    "circulatingSupplyPercentage": 0.970659722222223
   },
   {
     "month": 11,
     "year": 2029,
-    "circulating_supply": 486458333.333334,
-    "circulating_supply_percentage": 0.972916666666668
+    "circulatingSupplyValue": 486458333.333334,
+    "circulatingSupplyPercentage": 0.972916666666668
   },
   {
     "month": 12,
     "year": 2029,
-    "circulating_supply": 487586805.555556,
-    "circulating_supply_percentage": 0.975173611111112
+    "circulatingSupplyValue": 487586805.555556,
+    "circulatingSupplyPercentage": 0.975173611111112
   },
   {
     "month": 1,
     "year": 2030,
-    "circulating_supply": 488715277.777778,
-    "circulating_supply_percentage": 0.977430555555557
+    "circulatingSupplyValue": 488715277.777778,
+    "circulatingSupplyPercentage": 0.977430555555557
   },
   {
     "month": 2,
     "year": 2030,
-    "circulating_supply": "489843750.",
-    "circulating_supply_percentage": 0.979687500000001
+    "circulatingSupplyValue": "489843750.",
+    "circulatingSupplyPercentage": 0.979687500000001
   },
   {
     "month": 3,
     "year": 2030,
-    "circulating_supply": 490972222.222223,
-    "circulating_supply_percentage": 0.981944444444445
+    "circulatingSupplyValue": 490972222.222223,
+    "circulatingSupplyPercentage": 0.981944444444445
   },
   {
     "month": 4,
     "year": 2030,
-    "circulating_supply": 492100694.444445,
-    "circulating_supply_percentage": 0.98420138888889
+    "circulatingSupplyValue": 492100694.444445,
+    "circulatingSupplyPercentage": 0.98420138888889
   },
   {
     "month": 5,
     "year": 2030,
-    "circulating_supply": 493229166.666667,
-    "circulating_supply_percentage": 0.986458333333334
+    "circulatingSupplyValue": 493229166.666667,
+    "circulatingSupplyPercentage": 0.986458333333334
   },
   {
     "month": 6,
     "year": 2030,
-    "circulating_supply": 494357638.888889,
-    "circulating_supply_percentage": 0.988715277777779
+    "circulatingSupplyValue": 494357638.888889,
+    "circulatingSupplyPercentage": 0.988715277777779
   },
   {
     "month": 7,
     "year": 2030,
-    "circulating_supply": 495486111.111111,
-    "circulating_supply_percentage": 0.990972222222223
+    "circulatingSupplyValue": 495486111.111111,
+    "circulatingSupplyPercentage": 0.990972222222223
   },
   {
     "month": 8,
     "year": 2030,
-    "circulating_supply": 496614583.333334,
-    "circulating_supply_percentage": 0.993229166666667
+    "circulatingSupplyValue": 496614583.333334,
+    "circulatingSupplyPercentage": 0.993229166666667
   },
   {
     "month": 9,
     "year": 2030,
-    "circulating_supply": 497743055.555556,
-    "circulating_supply_percentage": 0.995486111111112
+    "circulatingSupplyValue": 497743055.555556,
+    "circulatingSupplyPercentage": 0.995486111111112
   },
   {
     "month": 10,
     "year": 2030,
-    "circulating_supply": 498871527.777778,
-    "circulating_supply_percentage": 0.997743055555556
+    "circulatingSupplyValue": 498871527.777778,
+    "circulatingSupplyPercentage": 0.997743055555556
   },
   {
     "month": 11,
     "year": 2030,
-    "circulating_supply": 500000000,
-    "circulating_supply_percentage": 1
+    "circulatingSupplyValue": 500000000,
+    "circulatingSupplyPercentage": 1
   }
 ]
