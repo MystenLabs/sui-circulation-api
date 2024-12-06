@@ -3,7 +3,7 @@ import { NextApiRequest, NextApiResponse } from 'next';
 import values from '../../../circulation_data_suins.json';
 import { DateTime } from 'luxon';
 
-export default function sui_circulation(
+export default function suins_circulation(
     request: NextApiRequest,
     response: NextApiResponse,
 ) {
@@ -19,5 +19,5 @@ export default function sui_circulation(
         );
 
     response.status(200)
-        .json(result[0]);
+        .json(result[0].circulatingSupplyValue);
 }
